@@ -70,10 +70,10 @@
       }
     },
     "color": {
-      "type": "color",
       "primary": {
         "color-primary-50": {
-          "value": "#e3f3ff"
+          "value": "#e3f3ff",
+          "type": "color"
         },
         "color-primary-75": {
           "value": "#c8e2f5"
