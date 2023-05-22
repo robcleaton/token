@@ -151,21 +151,6 @@
       "value": "0 0 0 8px #e0e8ee"
     }
   },
-  "breakpoints": {
-    "type": "sizing",
-    "sm": {
-      "value": "544px"
-    },
-    "md": {
-      "value": "768px"
-    },
-    "lg": {
-      "value": "1012px"
-    },
-    "xl": {
-      "value": "1280px"
-    }
-  },
   "color": {
     "type": "color",
     "primary": {
@@ -971,70 +956,6 @@
     },
     "space-16": {
       "value": "64px"
-    }
-  },
-  "time": {
-    "time-0-1": {
-      "value": "0.10s"
-    },
-    "time-0-2": {
-      "value": "0.20s"
-    },
-    "time-0-3": {
-      "value": "0.30s"
-    },
-    "time-0-4": {
-      "value": "0.40s"
-    },
-    "time-0-5": {
-      "value": "0.50s"
-    },
-    "time-0-6": {
-      "value": "0.60s"
-    },
-    "time-0-7": {
-      "value": "0.70s"
-    },
-    "time-0-8": {
-      "value": "0.80s"
-    },
-    "time-0-9": {
-      "value": "0.90s"
-    },
-    "time-1": {
-      "value": "1.00s"
-    },
-    "time-1-5": {
-      "value": "1.50s"
-    },
-    "time-2": {
-      "value": "2.00s"
-    },
-    "time-2-5": {
-      "value": "2.50s"
-    },
-    "time-3": {
-      "value": "3.00s"
-    },
-    "time-3-5": {
-      "value": "3.50s"
-    },
-    "time-4": {
-      "value": "4.00s"
-    },
-    "time-4-5": {
-      "value": "4.50s"
-    },
-    "time-5": {
-      "value": "5.00s"
-    },
-    "time-10": {
-      "value": "10.00s"
-    }
-  },
-  "transition": {
-    "transition-base": {
-      "value": "0.10s ease-in"
     }
   }
 }
