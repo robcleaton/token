@@ -135,11 +135,6 @@
 
     "Brand": {
       "Primary": {
-
-        "color-primary-100": {
-          "value": "#e3f3ff",
-          "type": "color"
-        },
         "50": {
           "value": "#E3F3FF",
           "type": "color",
