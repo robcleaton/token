@@ -233,6 +233,108 @@
           "value": "#000000",
           "type": "color"
         }
+      },
+      "success": {
+        "color-success-50": {
+          "value": "#f3fff8",
+          "type": "color"
+        },
+        "color-success-100": {
+          "value": "#dcf6e6",
+          "type": "color"
+        },
+        "color-success-200": {
+          "value": "#a8ddbd",
+          "type": "color"
+        },
+        "color-success-300": {
+          "value": "#54b27a",
+          "type": "color"
+        },
+        "color-success-400": {
+          "value": "#008033",
+          "type": "color"
+        },
+        "color-success-500": {
+          "value": "#005a24",
+          "type": "color"
+        },
+        "color-success-600": {
+          "value": "#00451b",
+          "type": "color"
+        },
+        "color-success-700": {
+          "value": "#003d18",
+          "type": "color"
+        }
+      },
+      "alarm": {
+        "color-alarm-50": {
+          "value": "#fff5ea",
+          "type": "color"
+        },
+        "color-alarm-100": {
+          "value": "#ffefd4",
+          "type": "color"
+        },
+        "color-alarm-200": {
+          "value": "#ffd9a9",
+          "type": "color"
+        },
+        "color-alarm-300": {
+          "value": "#edb065",
+          "type": "color"
+        },
+        "color-alarm-400": {
+          "value": "#d47e15",
+          "type": "color"
+        },
+        "color-alarm-500": {
+          "value": "#a25f0e",
+          "type": "color"
+        },
+        "color-alarm-600": {
+          "value": "#7d4e14",
+          "type": "color"
+        },
+        "color-alarm-700": {
+          "value": "#63431b",
+          "type": "color"
+        }
+      },
+      "danger": {
+        "color-danger-50": {
+          "value": "#ffe7e7",
+          "type": "color"
+        },
+        "color-danger-100": {
+          "value": "#ffd5d5",
+          "type": "color"
+        },
+        "color-danger-200": {
+          "value": "#ffafaf",
+          "type": "color"
+        },
+        "color-danger-300": {
+          "value": "#f47171",
+          "type": "color"
+        },
+        "color-danger-400": {
+          "value": "#d92929",
+          "type": "color"
+        },
+        "color-danger-500": {
+          "value": "#982020",
+          "type": "color"
+        },
+        "color-danger-600": {
+          "value": "#681f1f",
+          "type": "color"
+        },
+        "color-danger-700": {
+          "value": "#451c1c",
+          "type": "color"
+        }
       }
     }
   }
