@@ -137,9 +137,50 @@
       "Primary": {
         "color-primary-50": {
           "value": "#e3f3ff",
-          "type": "color",
-          "description": "v1"
+          "type": "color"
         },
+        "color-primary-75": {
+          "value": "#c8e2f5",
+          "type": "color"
+        },
+        "color-primary-100": {
+          "value": "#a4cfee",
+          "type": "color"
+        },
+        "color-primary-200": {
+          "value": "#6daede",
+          "type": "color"
+        },
+        "color-primary-300": {
+          "value": "#4192cd",
+          "type": "color"
+        },
+        "color-primary-400": {
+          "value": "#207bbc",
+          "type": "color"
+        },
+        "color-primary-500": {
+          "value": "#146aa8",
+          "type": "color"
+        },
+        "color-primary-600": {
+          "value": "#0d5c95",
+          "type": "color"
+        },
+        "color-primary-700": {
+          "value": "#094f81",
+          "type": "color"
+        },
+        "color-primary-800": {
+          "value": "#08436d",
+          "type": "color"
+        },
+        "color-primary-900": {
+          "value": "#083759",
+          "type": "color"
+        },
+
+
         "50": {
           "value": "#E3F3FF",
           "type": "color",
