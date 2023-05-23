@@ -138,6 +138,7 @@
         "color-primary-50": {
           "value": "#e3f3ff",
           "type": "color",
+          "description": "v1"
         },
         "50": {
           "value": "#E3F3FF",
